@@ -1,0 +1,19 @@
+<div class="container">
+  <br/>
+  <h1>Les membres du GT MHyIA</h1>
+  <br/>
+  <div class="row">
+
+    <div class="col-md-3 card-holder" *ngFor="let member of data.members">
+      <div class="card member-card">
+        <img [src]="member.img ? member.img : './assets/members_pictures/blank_avatar.webp'" class="card-img-top" alt="Photo Membre 1">
+        <div class="card-body">
+          <h5 class="card-title">{{member.name}}</h5>
+          <h6 class="card-title">{{member.role}}</h6>
+          <p class="card-text">{{member.mail}}</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

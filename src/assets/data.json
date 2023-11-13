@@ -1,0 +1,102 @@
+{
+  "home_text" :  "L’IA hybride englobe de manière générale toutes les approches qui combinent plusieurs méthodes d’IA, qu’elles soient symboliques ou numériques, qualitatives, semi-qualitatives ou quantitatives. En particulier, combiner le raisonnement symbolique avec l’apprentissage, dans des approches neuro-symboliques, est un défi important et de plus en plus considéré dans la recherche en IA. Pour permettre une telle combinaison d’une manière fondée tout en garantissant la transparence et l’explicabilité des résultats obtenus, une question clé est de savoir comment nous pouvons unifier les deux types de représentations plutôt distincts : une représentation numérique, statistique ou vectorielle d’une part, et une représentation symbolique d’autre part. Le GT Modèles Hybrides vise à identifier et explorer les connexions entre ces paradigmes d’IA à travers les hybridations possibles entre différents champs de recherche en IA, tels que le traitement automatique des langues naturelles, l’apprentissage automatique et la représentation des connaissances et le raisonnement.\n    <br/><br/>\n    L’idée n’est sans doute pas neuve, mais elle connaît un regain d’intérêt. Par exemple, des contraintes symboliques sont parfois utilisées pour régulariser des réseaux de neurones, pour générer des données d’apprentissage supplémentaires, ou encore pour déterminer la structure d’un réseau de neurones. D’autres approches utilisent des règles pour raisonner sur les prédictions des réseaux de neurones, ou traitent les règles comme des variables latentes qui sont déduites par un réseau de neurones. Bien qu’il y ait eu plusieurs travaux d’hybridations, les paradigmes d’IA symbolique et numérique restent largement découplés. Les travaux de ce GT se placent au carrefour de ces mondes et visent à aller vers des méthodes d’IA qui combinent étroitement apprentissage, modélisation des connaissances et des données, prenant en compte leur structure éventuelle, leurs imperfections, leurs interactions, et raisonnement..\n  ",
+  "members" : [
+    {
+      "name" : "Zied Bouraoui",
+      "role" : "Director",
+      "mail" : "zied.bouraoui@cril.fr",
+      "img" : "./assets/members_pictures/1.webp"
+    },
+    {
+      "name" : "Naim Essebbani",
+      "role" : "Student",
+      "mail" : "naim.essebbani@gmail.com"
+    }
+  ],
+  "seminaires" : [
+    {
+      "title": "Knowledge Graphs",
+      "date": "Mercredi 29 Mars",
+      "timeline": [
+        {
+          "heure": "9h",
+          "desc": "Accueil"
+        },
+        {
+          "heure": "9h30",
+          "desc": "Présentation GDR MHyIA - Isabelle Bloch"
+        },
+        {
+          "heure": "10h",
+          "desc": "Knowledge Graphs for Semantic Reprsentation of Data and Knowledge and Beyond. - Fatiha Sais"
+        },
+        {
+          "heure": "11h",
+          "desc": "Knowledge graphs: construction, matching, and applications - Pierre Monnin"
+        },
+        {
+          "heure": "12h",
+          "desc": "Pause déjeuner"
+        },
+        {
+          "heure": "14h",
+          "desc": "Max-min Learning of Approximate Weight Matrices from Fuzzy Data - Ismail Baaj"
+        },
+        {
+          "heure": "15h",
+          "desc": "Pause"
+        },
+        {
+          "heure": "15h30",
+          "desc": "Discussion"
+        },
+        {
+          "heure": "17h",
+          "desc": "Fin"
+        }
+      ]
+    },
+    {
+      "title" : "NLP",
+      "date": "Mercredi 30 Mars",
+      "timeline" : [
+        {
+          "heure" : "9h00",
+          "desc" : "Accueil"
+        },
+        {
+          "heure" : "9h15",
+          "desc" : "Language models and commonsense reasoning : Zied Bouraoui"
+        },
+        {
+          "heure" : "10h",
+          "desc" : "Pause café"
+        },
+        {
+          "heure" : "10h30",
+          "desc" : "Fondamentaux du raisonnement non monotone : Ramón Pino Pérez"
+        },
+        {
+          "heure" : "11h30",
+          "desc" : "Discussion"
+        },
+        {
+          "heure" : "12h",
+          "desc" : "Pause déjeuner"
+        },
+        {
+          "heure" : "14h15",
+          "desc" : "Planification in Natural Langage : Fred Maris"
+        },
+        {
+          "heure" : "15h",
+          "desc" : "Pause"
+        },
+        {
+          "heure" : "17h30",
+          "desc" : "discussion"
+        }
+      ]
+    }
+  ]
+}

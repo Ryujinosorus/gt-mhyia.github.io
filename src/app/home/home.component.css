@@ -1,0 +1,8 @@
+.center-image {
+  padding: 50px;
+  text-align: center;
+}
+
+.center-image img{
+  max-width: 85%;
+}
